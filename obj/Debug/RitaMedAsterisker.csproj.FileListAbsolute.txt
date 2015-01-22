@@ -1,0 +1,6 @@
+c:\users\gedoc\documents\visual studio 2013\Projects\RitaMedAsterisker\bin\Debug\RitaMedAsterisker.exe.config
+c:\users\gedoc\documents\visual studio 2013\Projects\RitaMedAsterisker\bin\Debug\RitaMedAsterisker.exe
+c:\users\gedoc\documents\visual studio 2013\Projects\RitaMedAsterisker\bin\Debug\RitaMedAsterisker.pdb
+c:\users\gedoc\documents\visual studio 2013\Projects\RitaMedAsterisker\obj\Debug\RitaMedAsterisker.csprojResolveAssemblyReference.cache
+c:\users\gedoc\documents\visual studio 2013\Projects\RitaMedAsterisker\obj\Debug\RitaMedAsterisker.exe
+c:\users\gedoc\documents\visual studio 2013\Projects\RitaMedAsterisker\obj\Debug\RitaMedAsterisker.pdb
